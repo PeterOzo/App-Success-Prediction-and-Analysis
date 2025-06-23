@@ -3,7 +3,7 @@
 
 ## 🚀 Project Overview
 
-**Business Analyst**: Peter Chika Ozo-ogueji and Emmanuella Appiah  
+**Business Analyst**: Peter Chika Ozo-ogueji 
 **Company**: METY Technology  
 **Supervisor**: Dr. John Leddo, President  
 **Project**: MyYouthSpan App Feature Analysis  
