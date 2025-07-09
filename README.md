@@ -8,8 +8,9 @@
 [![System Health](https://img.shields.io/badge/System%20Health-100%25-brightgreen.svg)](/)
 [![Response Time](https://img.shields.io/badge/Response%20Time-0.83ms-blue.svg)](/)
 
-*Advanced Data Analytics for Health Technology Investment Strategy*
 Click the Live Demo tab above for a visual tour of the dashboard!
+
+*Advanced Data Analytics for Health Technology Investment Strategy*
 
 For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis/blob/main/METY-Tech_Paper_and_Shinyapp_Predicting%20Health%20App%20Success.pdf)
 ## 🚀 Project Overview
