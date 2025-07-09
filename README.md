@@ -1,6 +1,19 @@
 # MyYouthSpan App Success Prediction & Analysis
 *Advanced Data Analytics for Health Technology Investment Strategy*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/METY_ShinyApp/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.6+-orange.svg)](https://xgboost.readthedocs.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![AUC Score](https://img.shields.io/badge/AUC-73.47%25-success.svg)](/)
+[![System Health](https://img.shields.io/badge/System%20Health-100%25-brightgreen.svg)](/)
+[![Response Time](https://img.shields.io/badge/Response%20Time-0.83ms-blue.svg)](/)
+
+Click the Live Demo tab above for a visual tour of the dashboard!
+
+For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-
+
 ## 🚀 Project Overview
 
 **Business Analyst**: Peter Chika Ozo-ogueji 
