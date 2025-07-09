@@ -12,8 +12,7 @@
 
 Click the Live Demo tab above for a visual tour of the dashboard!
 
-For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-
-
+For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis/blob/main/METY-Tech_Paper_and_Shinyapp_Predicting%20Health%20App%20Success.pdf)
 ## 🚀 Project Overview
 
 **Business Analyst**: Peter Chika Ozo-ogueji 
