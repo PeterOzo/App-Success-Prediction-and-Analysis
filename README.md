@@ -1,12 +1,12 @@
 # MyYouthSpan App Success Prediction & Analysis
 *Advanced Data Analytics for Health Technology Investment Strategy*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/METY_ShinyApp/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Shinyapp%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/METY_ShinyApp/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-1.6+-orange.svg)](https://xgboost.readthedocs.io/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[![Gradient_Boosting](https://img.shields.io/badge/Gradient_Boosting-1.6+-orange.svg)](https://Gradient_Boosting.readthedocs.io/)
+[![shinyapp](https://img.shields.io/badge/Shinyapp-1.28+-red.svg)](https://shinyapp.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![AUC Score](https://img.shields.io/badge/AUC-73.47%25-success.svg)](/)
+[![AUC Score](https://img.shields.io/badge/AUC-71.20%25-success.svg)](/)
 [![System Health](https://img.shields.io/badge/System%20Health-100%25-brightgreen.svg)](/)
 [![Response Time](https://img.shields.io/badge/Response%20Time-0.83ms-blue.svg)](/)
 
