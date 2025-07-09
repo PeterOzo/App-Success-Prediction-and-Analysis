@@ -1,6 +1,4 @@
 # MyYouthSpan App Success Prediction & Analysis
-*Advanced Data Analytics for Health Technology Investment Strategy*
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Shinyapp%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/METY_ShinyApp/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gradient_Boosting](https://img.shields.io/badge/Gradient_Boosting-1.6+-orange.svg)](https://Gradient_Boosting.readthedocs.io/)
@@ -10,6 +8,7 @@
 [![System Health](https://img.shields.io/badge/System%20Health-100%25-brightgreen.svg)](/)
 [![Response Time](https://img.shields.io/badge/Response%20Time-0.83ms-blue.svg)](/)
 
+*Advanced Data Analytics for Health Technology Investment Strategy*
 Click the Live Demo tab above for a visual tour of the dashboard!
 
 For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis/blob/main/METY-Tech_Paper_and_Shinyapp_Predicting%20Health%20App%20Success.pdf)
