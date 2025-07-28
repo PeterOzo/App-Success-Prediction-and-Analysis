@@ -1,4 +1,4 @@
-# MyYouthSpan App Success Prediction & Analysis   
+# MyYouthSpan App Success Prediction & Analysis    
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Shinyapp%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/METY_ShinyApp/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gradient_Boosting](https://img.shields.io/badge/Gradient_Boosting-1.6+-orange.svg)](https://Gradient_Boosting.readthedocs.io/)
